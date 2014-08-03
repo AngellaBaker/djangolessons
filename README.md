@@ -1,0 +1,4 @@
+djangolessons
+=============
+
+Learning Django library
